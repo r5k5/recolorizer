@@ -1,2 +1,2 @@
-# automatic-colorizer
-Automatically colorize black and white images using machine learning algorithms.
+# recolorizer
+ Recolorization of images using support vector machines.
